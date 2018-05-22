@@ -1,0 +1,5 @@
+.# data folder
+/data
+
+# Jupyter Notebook
+.ipynb_checkpoints
